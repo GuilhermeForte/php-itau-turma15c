@@ -19,5 +19,5 @@
 </h3>
 
 <h3>
-  Guilherme Forte
+  Guilherme de Oliveira Forte
 </h3>
